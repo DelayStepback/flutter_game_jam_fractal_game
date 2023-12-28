@@ -1,16 +1,11 @@
-# game_jam
+# flutter_game_jam_fractal_game
 
-A new Flutter project.
+Flutter-game project based on Flame.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This game is a small base for an indie game.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Map generation is based on the diamond-square algorithm for building fractal landscapes
+* Implemented spawn of opponents and their small movement in the vicinity of their appearance
+* Opponent attack: with physical contact, our hero can cause damage to opponents
